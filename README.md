@@ -1,6 +1,10 @@
 <h1>Mage vs Wizard</h1>  
 <h2>Description</h2>
-During my graduation, I worked on a mini project which involved creating a sketch using Javascript and p5Play on OpenProcessing platform. The sketch depicts a wizard and a mage who are placed in an interactive environment. As the wizard and mage move around in the environment, there comes a point where they collide. At this moment, both the wizard and mage attack each other. The sketch is designed to showcase the collision detection and interaction between two characters in the game.<br /> 
+During my graduation, I worked on a mini project which involved creating a sketch using Javascript and p5Play on OpenProcessing platform. The sketch depicts a wizard and a mage who are placed in an interactive environment. As the wizard and mage move around in the environment, there comes a point where they collide. At this moment, both the wizard and mage attack each other. The sketch is designed to showcase the collision detection and interaction between two characters in the game.<br />   
+
+<h2>Controls</h2>
+Mage: Use WASD to move, ER for attacks. <br/>
+Wizard: Use IJKL to move, OP for attacks. 
 
 ### [Live Demo](https://openprocessing.org/sketch/2240868/pc/ktmYLnJV)
 
